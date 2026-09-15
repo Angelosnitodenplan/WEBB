@@ -1,0 +1,43 @@
+h1{
+    color: blueviolet;
+    background-color: aqua;
+    text-decoration: underline black;
+}
+
+h2{
+    color:  blueviolet;
+    background-color: aqua;
+text-decoration: underline black;
+}
+
+h3{
+    color: blueviolet;
+    background-color: aqua;
+    text-decoration: underline black;
+}
+
+
+body{
+background-color: aqua;
+
+}
+
+a:link {
+color:     plum;
+
+}
+a:visited {
+color:     red;
+
+}
+
+a:hover{
+color:   rgb(0, 242, 255);
+
+}
+
+p{
+    color: blueviolet;
+    background-color: aqua;
+
+}
