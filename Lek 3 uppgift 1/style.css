@@ -1,0 +1,36 @@
+body{
+background-image: url("./img/Aperture-Science-Emblem.png");
+display: flex;
+flex-direction: column;
+}
+ul{
+background-color: #4287f5;
+
+}
+a{
+    color: #fcba03;
+}
+a:hover{
+    color: purple;
+    background-color: pink;
+}
+a:active{
+    color: green;
+    background-color: red;
+
+}
+img{
+height: 400px;
+width: 400px;
+
+}
+h1{
+    color:#24d4ce;
+
+background-color: #ffffff;
+text-align: right;
+}
+
+/*
+Namn: Angelos 
+Klass: EE25b
