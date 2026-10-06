@@ -1,0 +1,24 @@
+body{background-image: url("./img/showcase.jpg");
+}
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    text-align: center;
+
+}
+div{background-color: grey;
+    border: 3px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+h2{text-align: center;}
+.sidfot{
+    background-image: url("./img/logo-html-css-js.png");
+    height: 250px;
+    width: 40% ;
+    background-repeat: no-repeat;
+    margin-left: 150px;
+   
+}
