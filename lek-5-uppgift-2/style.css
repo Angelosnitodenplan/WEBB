@@ -1,9 +1,9 @@
-header{
+div{
     background-image: url(./img/snow_winter_trees.jpg);
     display: flex;
     justify-content: center;
 }
-nav
+
 a{
     display: flex;
     justify-content: space-evenly;
@@ -13,4 +13,10 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Mountains of Christmas';
+}
+
+img[alt="SMHI"] {
+    width: 10px;
+    height: auto;
 }
